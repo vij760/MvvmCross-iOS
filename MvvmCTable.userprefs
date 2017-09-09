@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{18D895D3-9965-49AE-B38A-16ACE592DD61}|Default">
   <MonoDevelop.Ide.ItemProperties.MvvmCTable.UI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FCAAF9BC-6F08-4E70-A8EF-DD4B38E322DA" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmCTable.UI.iOS/Views/DetailView.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmCTable.UI.iOS/Views/Hack.cs">
     <Files>
-      <File FileName="MvvmCTable.UI.iOS/Views/DetailView.cs" Line="32" Column="4" />
+      <File FileName="MvvmCTable.UI.iOS/Views/DetailView.cs" Line="1" Column="1" />
+      <File FileName="MvvmCTable.UI.iOS/Views/Experiment.cs" Line="1" Column="1" />
+      <File FileName="MvvmCTable.UI.iOS/Views/Hack.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

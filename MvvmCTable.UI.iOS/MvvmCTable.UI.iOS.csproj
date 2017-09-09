@@ -178,6 +178,8 @@
     <Compile Include="Views\CollectionViewCell.designer.cs">
       <DependentUpon>CollectionViewCell.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\Experiment.cs" />
+    <Compile Include="Views\Hack.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MvvmCTable.core\MvvmCTable.core.csproj">
