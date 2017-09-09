@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{18D895D3-9965-49AE-B38A-16ACE592DD61}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvvmCTable.UI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FCAAF9BC-6F08-4E70-A8EF-DD4B38E322DA" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmCTable.UI.iOS/Views/EvaluationView.cs">
+    <Files>
+      <File FileName="MvvmCTable.UI.iOS/Views/EvaluationView.cs" Line="34" Column="70" />
+      <File FileName="MvvmCTable.core/ViewModels/EvaluationViewModel.cs" Line="33" Column="1" />
+      <File FileName="MvvmCTable.UI.iOS/Views/CollectionViewSource.cs" Line="33" Column="6" />
+      <File FileName="MvvmCTable.UI.iOS/Views/CollectionViewCell.cs" Line="28" Column="6" />
+      <File FileName="MvvmCTable.UI.iOS/Views/SearchResultView.cs" Line="20" Column="61" />
+      <File FileName="MvvmCTable.UI.iOS/Views/SearchResultsTableViewSource.cs" Line="18" Column="4" />
+      <File FileName="MvvmCTable.UI.iOS/Views/SearchResultsCell.cs" Line="22" Column="29" />
+      <File FileName="MvvmCTable.core/ViewModels/SearchResultViewModel.cs" Line="7" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/cbsmobility/Desktop/MvvmCTable/MvvmCTable.UI.iOS/Application/Main.cs" line="1" column="1" />
+      <Breakpoint file="/Users/cbsmobility/Desktop/MvvmCTable/MvvmCTable.core/ViewModels/NewFarmPopViewModel.cs" line="76" column="1" />
+      <Breakpoint file="/Users/cbsmobility/Desktop/MvvmCTable/MvvmCTable.UI.iOS/Views/DetailView.cs" line="39" column="1" />
+      <Breakpoint file="/Users/cbsmobility/Desktop/MvvmCTable/MvvmCTable.UI.iOS/Views/NewFarmPopView.cs" line="15" column="1" />
+      <Breakpoint file="/Users/cbsmobility/Desktop/MvvmCTable/MvvmCTable.UI.iOS/Views/NewFarmPopView.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
