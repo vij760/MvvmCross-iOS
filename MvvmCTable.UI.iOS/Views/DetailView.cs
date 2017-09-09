@@ -27,9 +27,6 @@ namespace MvvmCTable.UI.iOS
 
 			set.Bind(btn_NextView).To(vm => vm.ClickCommand);
 			set.Bind(btn_ShowEvaluationView).To(vm => vm.ClickShowEvaluation);
-			//Vc = this.Storyboard.InstantiateViewController("NewFarmPopView") as NewFarmPopView;
-
-			//Vc = new NewFarmPopView();
 			set.Apply();
 		}
 
